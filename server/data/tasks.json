@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "e4440ac7-703c-483f-b7a6-47b27d98a1f0",
+    "title": "Studio Graphene Assignment",
+    "description": "Build Task Manager",
+    "dueDate": "2026-06-10",
+    "completed": true,
+    "createdAt": "2026-06-04T13:40:09.225Z"
+  },
+  {
+    "id": "95e72bd1-6c83-429c-98e2-0ce8ec989b08",
+    "title": "task 2",
+    "description": "task after task 1",
+    "dueDate": "2026-06-30",
+    "completed": false,
+    "createdAt": "2026-06-04T18:24:16.974Z"
+  }
+]
