@@ -302,11 +302,6 @@ Given additional development time, the following improvements would be implement
 3. Task categories, priorities, and tags.
 4. Drag-and-drop task organization.
 5. Due date reminders and notifications.
-6. Unit and integration testing using Jest and React Testing Library.
-7. Docker support for simplified deployment.
-8. Better analytics and productivity insights.
-9. Real-time synchronization across devices.
-10. Accessibility improvements and keyboard shortcuts.
 
 ### Notes
 
